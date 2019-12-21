@@ -7,7 +7,7 @@ use the shields to cover yourself and don't forget to collect the crates,
 the will help you on your mission!
 
 ![alt text](https://github.com/szymonstuszek/alien-invaders/blob/master/src/main/resources/screens/alien3.PNG)
-![alt text](https://github.com/szymonstuszek/alien-invaders/blob/master/src/main/resources/screens/alien4.PNG)
+![alt text](https://github.com/szymonstuszek/alien-invaders/blob/master/src/main/resources/screens/alien2.PNG)
 
 
 ## Build
