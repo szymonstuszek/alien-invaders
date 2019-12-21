@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.szymonstuszek</groupId>
-    <artifactId>Alien Invaders</artifactId>
+    <artifactId>AlienInvaders</artifactId>
     <version>1.0</version>
 
     <build>
@@ -25,7 +25,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.snake.main.Main</mainClass>
+                            <mainClass>com.invaders.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
